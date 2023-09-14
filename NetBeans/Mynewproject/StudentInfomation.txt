@@ -1,0 +1,90 @@
+#StudentInfomation
+#Mon Aug 21 14:08:38 IST 2023
+Address\ \ \ \ \ \ \ \=\ =23464nghkvghf
+Email\ address\ \ \=\ =fddf@trdft
+Father's\ Name\ \=\ =shga
+Mother's\ Name\ \=\ =jklghjj
+PassWord\ \=\ =p123
+Phone\ Number\ \ \=\ =134254
+Roll\ Number\ \=\ =1234
+Student\ Name\ \=\ =palak
+#StudentInfomation
+#Mon Aug 21 14:37:02 IST 2023
+Address\=\ =sh
+Email\ address\=\ =hdhg@1233
+Father's\ Name\=\ =hjf
+Mother's\ Name\=\ =fhj
+PassWord\=\ =987
+Phone\ Number\=\ =97776
+Roll\ Number\=\ =1234
+Student\ Name\=\ =palak
+#StudentInfomation
+#Tue Aug 22 10:38:31 IST 2023
+Address\=\ =tilak nagar
+Email\ address\=\ =dhfghshd
+Father's\ Name\=\ =hgfsthfts
+Mother's\ Name\=\ =gfdghsfgf
+PassWord\=\ =palak
+Phone\ Number\=\ =9406800871
+Roll\ Number\=\ =1234567
+Student\ Name\=\ =Palak
+#StudentInfomation
+#Tue Aug 22 10:43:42 IST 2023
+Address=fgdgf
+Emailaddress=hgfhff
+Father'sName=gfghf
+Mother'sName=fdfgd
+PassWord=div
+PhoneNumber=9567895
+RollNumber=12345
+StudentName=Divyansh
+#StudentInfomation
+#Tue Aug 22 11:18:21 IST 2023
+Address=
+Emailaddress=
+Father'sName=
+Mother'sName=
+PassWord=
+PhoneNumber=
+RollNumber=
+StudentName=
+#StudentInfomation
+#Wed Sep 06 14:44:09 IST 2023
+Address=jhjhj
+Emailaddress=hujh
+Father'sName=jghjhjh
+Mother'sName=jhjh
+PassWord=jghjhj
+PhoneNumber=jhuh
+RollNumber=jhjhjh
+StudentName=kjhcvkhdck
+#StudentInfomation
+#Wed Sep 06 14:46:15 IST 2023
+Address=45ftffff
+Emailaddress=gdfdghgfhg@hjdh
+Father'sName=gfgf
+Mother'sName=fygf
+PassWord=1234
+PhoneNumber=9406778878
+RollNumber=1234
+StudentName=palak
+#StudentInfomation
+#Wed Sep 06 14:47:45 IST 2023
+Address=
+Emailaddress=
+Father'sName=
+Mother'sName=
+PassWord=
+PhoneNumber=
+RollNumber=
+StudentName=
+#StudentInfomation
+#Wed Sep 06 14:48:14 IST 2023
+Address=jghjkhj
+Emailaddress=jhjkhj
+Father'sName=hjjh
+Mother'sName=hjjh
+PassWord=hjjhhj
+PhoneNumber=jhhjhjh
+RollNumber=12345
+StudentName=Palak

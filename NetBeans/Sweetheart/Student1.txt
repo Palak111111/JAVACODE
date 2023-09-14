@@ -1,0 +1,16 @@
+#UserData
+#Wed Sep 06 14:36:32 IST 2023
+divyanshshukla1406@gmail.com_DOB=14-8-2001
+divyanshshukla1406@gmail.com_Email=divyanshshukla1406@gmail.com
+divyanshshukla1406@gmail.com_fname=Aaloo
+divyanshshukla1406@gmail.com_mname=Bhindi
+divyanshshukla1406@gmail.com_name=Palak Paneer
+divyanshshukla1406@gmail.com_password=1234
+divyanshshukla1406@gmail.com_phone=9847565412
+gole@gmail.com_DOB=14-06-2001
+gole@gmail.com_Email=gole@gmail.com
+gole@gmail.com_fname=MGole
+gole@gmail.com_mname=FGole
+gole@gmail.com_name=Gole
+gole@gmail.com_password=1234
+gole@gmail.com_phone=9857461232
